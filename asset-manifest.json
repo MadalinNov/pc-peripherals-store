@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/pc-peripherals-store/static/css/main.cf76bdc1.chunk.css",
-    "main.js": "/pc-peripherals-store/static/js/main.cc124185.chunk.js",
-    "main.js.map": "/pc-peripherals-store/static/js/main.cc124185.chunk.js.map",
+    "main.js": "/pc-peripherals-store/static/js/main.80302de2.chunk.js",
+    "main.js.map": "/pc-peripherals-store/static/js/main.80302de2.chunk.js.map",
     "runtime-main.js": "/pc-peripherals-store/static/js/runtime-main.31e53b5f.js",
     "runtime-main.js.map": "/pc-peripherals-store/static/js/runtime-main.31e53b5f.js.map",
-    "static/js/2.3439ff41.chunk.js": "/pc-peripherals-store/static/js/2.3439ff41.chunk.js",
-    "static/js/2.3439ff41.chunk.js.map": "/pc-peripherals-store/static/js/2.3439ff41.chunk.js.map",
+    "static/js/2.9bb710f5.chunk.js": "/pc-peripherals-store/static/js/2.9bb710f5.chunk.js",
+    "static/js/2.9bb710f5.chunk.js.map": "/pc-peripherals-store/static/js/2.9bb710f5.chunk.js.map",
     "index.html": "/pc-peripherals-store/index.html",
     "static/css/main.cf76bdc1.chunk.css.map": "/pc-peripherals-store/static/css/main.cf76bdc1.chunk.css.map",
-    "static/js/2.3439ff41.chunk.js.LICENSE.txt": "/pc-peripherals-store/static/js/2.3439ff41.chunk.js.LICENSE.txt",
+    "static/js/2.9bb710f5.chunk.js.LICENSE.txt": "/pc-peripherals-store/static/js/2.9bb710f5.chunk.js.LICENSE.txt",
     "static/media/homeBg.62414bf4.jpg": "/pc-peripherals-store/static/media/homeBg.62414bf4.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.31e53b5f.js",
-    "static/js/2.3439ff41.chunk.js",
+    "static/js/2.9bb710f5.chunk.js",
     "static/css/main.cf76bdc1.chunk.css",
-    "static/js/main.cc124185.chunk.js"
+    "static/js/main.80302de2.chunk.js"
   ]
 }
